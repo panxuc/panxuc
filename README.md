@@ -16,3 +16,5 @@
 - 🌱 Feel free to contact me at panxuc@panxuc.com.
 
 ![GitHub Stats](https://github-readme-stats.panxuc.com/api?username=panxuc&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
+
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/panxuc)](https://ghfind.com/u/panxuc?ref=badge)
